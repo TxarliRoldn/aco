@@ -31,4 +31,4 @@ ax0.legend()
 
 fig0.tight_layout()
 # fig0.savefig("euler.pgf", backend="pgf")
-fig0.savefig("euler.png", dpi=600)
+fig0.savefig("sph_euler.png")
